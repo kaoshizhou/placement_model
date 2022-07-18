@@ -1,0 +1,15 @@
+__pycache__/
+2m_data/
+clean_dataset/
+cleaned_data/
+layout_tokenizer/
+new_config/
+original_data/
+t5-base-changed/
+wandb/
+*.txt
+aaa.py
+generate_vocab.py
+*.out
+tokenization_layout.py
+src/__pycache__
