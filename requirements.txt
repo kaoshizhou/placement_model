@@ -1,0 +1,4 @@
+torch==1.10.0
+wandb==0.12.12
+numpy==1.21.2
+transformers==4.7.0
